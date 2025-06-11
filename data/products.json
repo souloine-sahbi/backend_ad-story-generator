@@ -1,0 +1,1810 @@
+[
+  {
+    "Product": "Solar-powered Smartwatch",
+    "Category": "Technology / Sports",
+    "Target Audience": "Athletes, travelers, outdoor enthusiasts",
+    "Features": "Solar charging, 30-day battery life, IP68 waterproof, sleep tracking",
+    "Benefits": "Ideal for long hikes without access to electricity. Eco-friendly.",
+    "Recommended Style": "Inspiring"
+  },
+  {
+    "Product": "Backpack with USB Solar Panel",
+    "Category": "Accessories / Mobility",
+    "Target Audience": "Students, digital nomads, urban travelers",
+    "Features": "USB smartphone charging, shockproof compartment, waterproof fabric",
+    "Benefits": "Avoid power banks, charge your devices anywhere.",
+    "Recommended Style": "Funny"
+  },
+  {
+    "Product": "750ml Stainless Steel Insulated Bottle",
+    "Category": "Hydration / Ecology",
+    "Target Audience": "Hikers, workers, students",
+    "Features": "Keeps cold for 24h and hot for 12h, leakproof cap, BPA-free",
+    "Benefits": "Reduces plastic waste, keeps water fresh all day.",
+    "Recommended Style": "Emotional"
+  },
+  {
+    "Product": "Smart Heated Jacket",
+    "Category": "Wearable Tech / Winter",
+    "Target Audience": "Motorcyclists, outdoor workers, adventurers",
+    "Features": "3 heating levels, removable battery, windproof fabric",
+    "Benefits": "Stay active even in freezing weather. Discreet technology.",
+    "Recommended Style": "Emotional"
+  },
+  {
+    "Product": "Eco-Friendly Yoga Mat",
+    "Category": "Well-being / Sport",
+    "Target Audience": "Active women, yoga lovers, eco-conscious individuals",
+    "Features": "Non-slip, made from natural cork, washable",
+    "Benefits": "Optimal comfort, eco-friendly, perfect for meditation",
+    "Recommended Style": "Inspiring"
+  },
+  {
+    "Product": "Smart Pen for Note-Taking",
+    "Category": "Education / Office",
+    "Target Audience": "Students, professionals, speakers",
+    "Features": "Bluetooth sync, internal memory, USB-C charging",
+    "Benefits": "Never lose an idea again. Digitizes notes in real time.",
+    "Recommended Style": "Techy / Funny"
+  },
+  {
+    "Product": "Portable HD Mini Projector",
+    "Category": "High-tech / Multimedia",
+    "Target Audience": "Families, students, young cinephiles",
+    "Features": "Up to 120\" projection, built-in battery, HDMI/USB",
+    "Benefits": "Cinema anywhere, no installation needed. Compact and easy to carry.",
+    "Recommended Style": "Funny"
+  },
+  {
+    "Product": "Ultra-Slim Smartphone",
+    "Category": "Electronics",
+    "Target Audience": "Mobile professionals",
+    "Features": "6.1\" AMOLED screen, 256GB storage",
+    "Benefits": "Lightweight (148g) and powerful",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Aerodynamic Running Shoes",
+    "Category": "Sports",
+    "Target Audience": "Regular runners",
+    "Features": "Shock-absorbing sole, breathable mesh",
+    "Benefits": "Reduces joint impact",
+    "Recommended Style": "Dynamic"
+  },
+  {
+    "Product": "Minimalist Kitchen Kit",
+    "Category": "Home",
+    "Target Audience": "Tiny house and studio dwellers",
+    "Features": "6 stackable pieces, stainless steel",
+    "Benefits": "Optimal space saving",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Adjustable LED Desk Lamp",
+    "Category": "Office",
+    "Target Audience": "Students/remote workers",
+    "Features": "5 brightness levels, flexible arm",
+    "Benefits": "Reduces eye strain",
+    "Recommended Style": "Minimalist"
+  },
+  {
+    "Product": "Precision Temperature Electric Teapot",
+    "Category": "Home Appliances",
+    "Target Audience": "Tea connoisseurs",
+    "Features": "Digital control (±1°C), timer",
+    "Benefits": "Perfect aroma extraction",
+    "Recommended Style": "Sophisticated"
+  },
+  {
+    "Product": "Urban Anti-Theft Backpack",
+    "Category": "Accessories",
+    "Target Audience": "City travelers",
+    "Features": "Hidden zippers, windproof fabric",
+    "Benefits": "Enhanced security",
+    "Recommended Style": "Urban"
+  },
+  {
+    "Product": "Waterproof Bluetooth Speaker",
+    "Category": "Audio",
+    "Target Audience": "Outdoor lovers",
+    "Features": "IP67, 20h battery life",
+    "Benefits": "Shock and water resistant",
+    "Recommended Style": "Rugged"
+  },
+  {
+    "Product": "Memory Foam Pillow",
+    "Category": "Bedding",
+    "Target Audience": "Sensitive sleepers",
+    "Features": "Viscoelastic foam, bamboo cover",
+    "Benefits": "Personalized neck support",
+    "Recommended Style": "Comfort"
+  },
+  {
+    "Product": "Autonomous Indoor Garden",
+    "Category": "Gardening",
+    "Target Audience": "Urban dwellers without a balcony",
+    "Features": "Horticultural LEDs, 5L reservoir",
+    "Benefits": "Fresh herbs all year round",
+    "Recommended Style": "Eco"
+  },
+  {
+    "Product": "Recycled Paper Notebook",
+    "Category": "Stationery",
+    "Target Audience": "Writers/students",
+    "Features": "120 pages, hard cover",
+    "Benefits": "Zero deforestation",
+    "Recommended Style": "Natural"
+  },
+  {
+    "Product": "Eco Smartwatch",
+    "Category": "Wearable Tech",
+    "Target Audience": "Occasional athletes",
+    "Features": "5ATM water resistance, heart rate monitoring",
+    "Benefits": "Health monitoring without a subscription",
+    "Recommended Style": "Sporty"
+  },
+  {
+    "Product": "Facial Cleansing Foam",
+    "Category": "Beauty",
+    "Target Audience": "Sensitive skin",
+    "Features": "Neutral pH, paraben-free",
+    "Benefits": "Gentle yet deep cleansing",
+    "Recommended Style": "Soft"
+  },
+  {
+    "Product": "Compact Mechanical Keyboard",
+    "Category": "Gaming",
+    "Target Audience": "Competitive gamers",
+    "Features": "Blue switches, customizable RGB",
+    "Benefits": "Millimetric precision",
+    "Recommended Style": "Aggressive"
+  },
+  {
+    "Product": "Silent Electric Kettle",
+    "Category": "Kitchen",
+    "Target Audience": "Office/home",
+    "Features": "40dB, heats in 45s",
+    "Benefits": "Won’t disturb colleagues",
+    "Recommended Style": "Discreet"
+  },
+  {
+    "Product": "Hiking Hammock",
+    "Category": "Outdoor",
+    "Target Audience": "Lightweight campers",
+    "Features": "500g, supports 150kg",
+    "Benefits": "Setup in 30 seconds",
+    "Recommended Style": "Adventure"
+  },
+  {
+    "Product": "Creative 3D Pen",
+    "Category": "Hobbies",
+    "Target Audience": "Tech artists",
+    "Features": "Adjustable temperature, 10 filaments included",
+    "Benefits": "Tangible digital sculpture",
+    "Recommended Style": "Creative"
+  },
+  {
+    "Product": "Sunrise Simulator Alarm Clock",
+    "Category": "Well-being",
+    "Target Audience": "Night owls",
+    "Features": "3000–6500K light, nature sounds",
+    "Benefits": "Stress-free wake-up",
+    "Recommended Style": "Soothing"
+  },
+  {
+    "Product": "RFID Blocking Wallet",
+    "Category": "Accessories",
+    "Target Audience": "Business travelers",
+    "Features": "Full-grain leather, 12 compartments",
+    "Benefits": "Protection from digital theft",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Beginner Soldering Kit",
+    "Category": "DIY",
+    "Target Audience": "Junior makers",
+    "Features": "60W iron, solder included",
+    "Benefits": "Safe learning",
+    "Recommended Style": "Educational"
+  },
+  {
+    "Product": "Temperature-Controlled Mug",
+    "Category": "Gadgets",
+    "Target Audience": "Office",
+    "Features": "Keeps at 55°C, USB rechargeable",
+    "Benefits": "Coffee always at the perfect temperature",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Silent USB Fan",
+    "Category": "Office",
+    "Target Audience": "Remote workers",
+    "Features": "25dB, 3 speeds, adjustable angle",
+    "Benefits": "Discreet airflow with no distractions",
+    "Recommended Style": "Minimalist"
+  },
+  {
+    "Product": "Insulated Lunch Box",
+    "Category": "Kitchen",
+    "Target Audience": "Healthcare professionals",
+    "Features": "12h freshness, dry/wet compartments",
+    "Benefits": "Healthy meals at work",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Portable Solar Charger",
+    "Category": "Gadgets",
+    "Target Audience": "Outdoor enthusiasts",
+    "Features": "10,000mAh, dual USB output",
+    "Benefits": "Charge devices anywhere under the sun",
+    "Recommended Style": "Eco-friendly"
+  },
+  {
+    "Product": "Smart Water Bottle",
+    "Category": "Hydration",
+    "Target Audience": "Fitness enthusiasts",
+    "Features": "Hydration reminders, temperature display",
+    "Benefits": "Stay hydrated with smart tracking",
+    "Recommended Style": "Techy"
+  },
+  {
+    "Product": "Noise-Cancelling Headphones",
+    "Category": "Audio",
+    "Target Audience": "Commuters, travelers",
+    "Features": "Active noise cancellation, 30-hour battery life",
+    "Benefits": "Enjoy music without distractions",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smartphone Camera Lens Kit",
+    "Category": "Photography",
+    "Target Audience": "Content creators",
+    "Features": "Wide-angle, macro, and fisheye lenses",
+    "Benefits": "Enhance smartphone photography",
+    "Recommended Style": "Creative"
+  },
+  {
+    "Product": "Wireless Charging Pad",
+    "Category": "Tech Accessories",
+    "Target Audience": "Mobile users",
+    "Features": "Fast charging, anti-slip design",
+    "Benefits": "Convenient charging without cables",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart Home Security Camera",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners",
+    "Features": "1080p HD, night vision, motion detection",
+    "Benefits": "Peace of mind with real-time monitoring",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Ergonomic Office Chair",
+    "Category": "Office Furniture",
+    "Target Audience": "Remote workers",
+    "Features": "Adjustable lumbar support, breathable mesh",
+    "Benefits": "Comfortable seating for long hours",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Smart Thermostat",
+    "Category": "Home Automation",
+    "Target Audience": "Tech-savvy homeowners",
+    "Features": "Wi-Fi enabled, energy-saving mode",
+    "Benefits": "Control home temperature remotely",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Compact Bluetooth Speaker",
+    "Category": "Audio",
+    "Target Audience": "Music lovers",
+    "Features": "Portable, 10-hour battery life, waterproof",
+    "Benefits": "Enjoy music on the go",
+    "Recommended Style": "Trendy"
+  },
+  {
+    "Product": "Smart LED Desk Lamp",
+    "Category": "Home Office",
+    "Target Audience": "Students, professionals",
+    "Features": "Adjustable brightness, USB charging port",
+    "Benefits": "Perfect lighting for work or study",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Wireless Earbuds",
+    "Category": "Audio",
+    "Target Audience": "Active individuals",
+    "Features": "Touch controls, sweat-resistant, 20-hour battery life",
+    "Benefits": "Freedom of movement while enjoying music",
+    "Recommended Style": "Sporty"
+  },
+  {
+    "Product": "Smartphone Stand with Wireless Charger",
+    "Category": "Tech Accessories",
+    "Target Audience": "Mobile users",
+    "Features": "Adjustable angle, fast charging",
+    "Benefits": "Convenient viewing and charging in one device",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Portable Power Bank",
+    "Category": "Gadgets",
+    "Target Audience": "Travelers, commuters",
+    "Features": "20,000mAh, dual USB output",
+    "Benefits": "Charge devices multiple times on the go",
+    "Recommended Style": "Compact"
+  },
+  {
+    "Product": "Smart Plant Watering System",
+    "Category": "Gardening",
+    "Target Audience": "Plant enthusiasts",
+    "Features": "Automated watering, moisture sensor",
+    "Benefits": "Keep plants healthy without daily effort",
+    "Recommended Style": "Eco-friendly"
+  },
+  {
+    "Product": "Foldable Bluetooth Keyboard",
+    "Category": "Tech Accessories",
+    "Target Audience": "On-the-go professionals",
+    "Features": "Compact design, rechargeable battery",
+    "Benefits": "Type comfortably anywhere, anytime",
+    "Recommended Style": "Portable"
+  },
+  {
+    "Product": "Smart Water Leak Detector",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners",
+    "Features": "Wi-Fi connectivity, real-time alerts",
+    "Benefits": "Prevent water damage with early detection",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Wireless Charging Car Mount",
+    "Category": "Car Accessories",
+    "Target Audience": "Drivers",
+    "Features": "Automatic clamping, fast charging",
+    "Benefits": "Charge your phone while navigating",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smart Sleep Mask",
+    "Category": "Wellness",
+    "Target Audience": "Sleep-deprived individuals",
+    "Features": "Bluetooth music, adjustable fit, blackout design",
+    "Benefits": "Enhance sleep quality with soothing sounds",
+    "Recommended Style": "Relaxing"
+  },
+  {
+    "Product": "Portable Mini Projector",
+    "Category": "Entertainment",
+    "Target Audience": "Movie lovers, gamers",
+    "Features": "HD projection, built-in speaker, compact size",
+    "Benefits": "Enjoy movies and games anywhere",
+    "Recommended Style": "Fun"
+  },
+  {
+    "Product": "Smartphone Gimbal Stabilizer",
+    "Category": "Photography",
+    "Target Audience": "Content creators, vloggers",
+    "Features": "3-axis stabilization, Bluetooth control",
+    "Benefits": "Capture smooth videos effortlessly",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Wireless Charging Mouse Pad",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, gamers",
+    "Features": "Built-in wireless charger, non-slip surface",
+    "Benefits": "Charge your devices while working or gaming",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart Doorbell Camera",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners, renters",
+    "Features": "1080p HD video, two-way audio, motion detection",
+    "Benefits": "See and speak to visitors remotely",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Ergonomic Laptop Stand",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, students",
+    "Features": "Adjustable height, foldable design",
+    "Benefits": "Improve posture and comfort while working",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smartphone Camera Tripod",
+    "Category": "Photography",
+    "Target Audience": "Content creators, photographers",
+    "Features": "Adjustable height, Bluetooth remote control",
+    "Benefits": "Capture steady shots and videos easily",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Wireless Noise-Cancelling Headphones",
+    "Category": "Audio",
+    "Target Audience": "Music enthusiasts, commuters",
+    "Features": "Active noise cancellation, 40-hour battery life",
+    "Benefits": "Immerse in music without distractions",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart Home Hub",
+    "Category": "Home Automation",
+    "Target Audience": "Tech-savvy homeowners",
+    "Features": "Voice control, compatible with multiple devices",
+    "Benefits": "Centralize control of smart home devices",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Compact Travel Pillow",
+    "Category": "Travel Accessories",
+    "Target Audience": "Frequent travelers",
+    "Features": "Memory foam, washable cover, portable design",
+    "Benefits": "Comfortable support on the go",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Smartphone Lens Attachment",
+    "Category": "Photography Accessories",
+    "Target Audience": "Mobile photographers",
+    "Features": "Wide-angle, macro, and fisheye lenses",
+    "Benefits": "Enhance smartphone photography capabilities",
+    "Recommended Style": "Creative"
+  },
+  {
+    "Product": "Smart Water Bottle with Hydration Tracker",
+    "Category": "Health Tech",
+    "Target Audience": "Fitness enthusiasts",
+    "Features": "Hydration reminders, Bluetooth connectivity",
+    "Benefits": "Stay hydrated with smart tracking",
+    "Recommended Style": "Techy"
+  },
+  {
+    "Product": "Portable Solar Power Bank",
+    "Category": "Gadgets",
+    "Target Audience": "Outdoor adventurers",
+    "Features": "Solar charging, 20,000mAh capacity",
+    "Benefits": "Charge devices sustainably on the go",
+    "Recommended Style": "Eco-friendly"
+  },
+  {
+    "Product": "Smart Air Quality Monitor",
+    "Category": "Home Tech",
+    "Target Audience": "Health-conscious individuals",
+    "Features": "Real-time air quality tracking, mobile app integration",
+    "Benefits": "Breathe cleaner air with smart monitoring",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Wireless Charging Desk Organizer",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, students",
+    "Features": "Multiple compartments, wireless charging pad",
+    "Benefits": "Keep your workspace organized and charged",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart LED Light Bulbs",
+    "Category": "Home Lighting",
+    "Target Audience": "Homeowners, renters",
+    "Features": "Color-changing, app control, energy-efficient",
+    "Benefits": "Customize your home lighting easily",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Portable Bluetooth Record Player",
+    "Category": "Audio",
+    "Target Audience": "Vinyl enthusiasts",
+    "Features": "Bluetooth connectivity, built-in speakers, vintage design",
+    "Benefits": "Enjoy vinyl records with modern convenience",
+    "Recommended Style": "Retro"
+  },
+  {
+    "Product": "Smartphone Car Mount with Wireless Charger",
+    "Category": "Car Accessories",
+    "Target Audience": "Drivers, commuters",
+    "Features": "Automatic clamping, fast wireless charging",
+    "Benefits": "Charge your phone while navigating safely",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Portable Mini Air Conditioner",
+    "Category": "Home Appliances",
+    "Target Audience": "Small space dwellers",
+    "Features": "Compact design, energy-efficient cooling",
+    "Benefits": "Stay cool without bulky equipment",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Smart Fitness Scale",
+    "Category": "Health Tech",
+    "Target Audience": "Fitness enthusiasts",
+    "Features": "Body composition analysis, Bluetooth connectivity",
+    "Benefits": "Track your health metrics easily",
+    "Recommended Style": "Techy"
+  },
+  {
+    "Product": "Wireless Charging Mouse",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, gamers",
+    "Features": "Ergonomic design, fast wireless charging",
+    "Benefits": "Convenient and efficient mouse usage",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart Home Light Switch",
+    "Category": "Home Automation",
+    "Target Audience": "Tech-savvy homeowners",
+    "Features": "Voice control, app integration, energy monitoring",
+    "Benefits": "Control your lights remotely and save energy",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Portable Bluetooth Karaoke Microphone",
+    "Category": "Entertainment",
+    "Target Audience": "Party enthusiasts, families",
+    "Features": "Bluetooth connectivity, built-in speaker, rechargeable battery",
+    "Benefits": "Sing along anywhere with ease",
+    "Recommended Style": "Fun"
+  },
+  {
+    "Product": "Smartphone Tripod with Ring Light",
+    "Category": "Photography Accessories",
+    "Target Audience": "Content creators, vloggers",
+    "Features": "Adjustable height, built-in ring light, Bluetooth remote",
+    "Benefits": "Perfect lighting for videos and photos",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Wireless Earbuds with Charging Case",
+    "Category": "Audio",
+    "Target Audience": "Active individuals, commuters",
+    "Features": "Touch controls, sweat-resistant, 25-hour battery life",
+    "Benefits": "Enjoy music and calls without wires",
+    "Recommended Style": "Sporty"
+  },
+  {
+    "Product": "Smart Home Security System",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners, renters",
+    "Features": "Cameras, motion sensors, mobile alerts",
+    "Benefits": "Comprehensive home protection",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Portable Electric Grill",
+    "Category": "Kitchen Appliances",
+    "Target Audience": "Grilling enthusiasts, small space dwellers",
+    "Features": "Compact design, non-stick surface, easy to clean",
+    "Benefits": "Enjoy grilled food anywhere, anytime",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Smartphone Photography Lens Kit",
+    "Category": "Photography Accessories",
+    "Target Audience": "Mobile photographers, content creators",
+    "Features": "Wide-angle, macro, and fisheye lenses",
+    "Benefits": "Enhance your smartphone photography",
+    "Recommended Style": "Creative"
+  },
+  {
+    "Product": "Wireless Charging Desk Lamp",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, students",
+    "Features": "Adjustable brightness, wireless charging pad",
+    "Benefits": "Illuminate your workspace while charging devices",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smart Home Thermostat",
+    "Category": "Home Automation",
+    "Target Audience": "Tech-savvy homeowners",
+    "Features": "Wi-Fi enabled, energy-saving features, mobile app control",
+    "Benefits": "Control your home's temperature remotely",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Portable Bluetooth Soundbar",
+    "Category": "Audio",
+    "Target Audience": "Movie lovers, gamers",
+    "Features": "Compact design, Bluetooth connectivity, built-in subwoofer",
+    "Benefits": "Enhance your audio experience at home or on the go",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smartphone Gimbal Stabilizer",
+    "Category": "Photography Accessories",
+    "Target Audience": "Content creators, vloggers",
+    "Features": "3-axis stabilization, Bluetooth control, adjustable height",
+    "Benefits": "Capture smooth and professional-looking videos",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Wireless Charging Car Mount",
+    "Category": "Car Accessories",
+    "Target Audience": "Drivers, commuters",
+    "Features": "Automatic clamping, fast wireless charging, adjustable viewing angle",
+    "Benefits": "Charge your phone while keeping it accessible",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smart Home Air Purifier",
+    "Category": "Home Appliances",
+    "Target Audience": "Health-conscious individuals",
+    "Features": "HEPA filter, Wi-Fi connectivity, mobile app control",
+    "Benefits": "Breathe cleaner air with smart monitoring",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Portable Bluetooth Speaker with LED Lights",
+    "Category": "Audio",
+    "Target Audience": "Party enthusiasts, outdoor lovers",
+    "Features": "Water-resistant, built-in LED lights, 15-hour battery life",
+    "Benefits": "Enjoy music with a vibrant light show",
+    "Recommended Style": "Fun"
+  },
+  {
+    "Product": "Smartphone Car Charger with Quick Charge",
+    "Category": "Car Accessories",
+    "Target Audience": "Drivers, commuters",
+    "Features": "Fast charging, dual USB ports, compact design",
+    "Benefits": "Charge multiple devices quickly on the go",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smart Home Door Lock",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners, renters",
+    "Features": "Keyless entry, mobile app control, auto-lock feature",
+    "Benefits": "Enhanced security and convenience",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Wireless Charging Mouse Pad with RGB Lighting",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, gamers",
+    "Features": "Built-in wireless charger, customizable RGB lighting",
+    "Benefits": "Charge your devices while adding style to your workspace",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Smartphone Tripod with Bluetooth Remote",
+    "Category": "Photography Accessories",
+    "Target Audience": "Content creators, photographers",
+    "Features": "Adjustable height, Bluetooth remote control, portable design",
+    "Benefits": "Capture steady shots and videos easily",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Smart Home Smoke Detector",
+    "Category": "Home Safety",
+    "Target Audience": "Homeowners, renters",
+    "Features": "Wi-Fi connectivity, mobile alerts, voice alerts",
+    "Benefits": "Stay safe with real-time smoke detection",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Portable Electric Coffee Maker",
+    "Category": "Kitchen Appliances",
+    "Target Audience": "Coffee lovers, travelers",
+    "Features": "Compact design, rechargeable battery, quick brewing",
+    "Benefits": "Enjoy fresh coffee anywhere, anytime",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Bluetooth Earbuds",
+    "Category": "Audio",
+    "Target Audience": "Music lovers",
+    "Features": "Noise cancellation, touch controls",
+    "Benefits": "High-quality sound without distractions",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Portable Air Purifier",
+    "Category": "Home Appliances",
+    "Target Audience": "Allergy sufferers",
+    "Features": "HEPA filter, compact design",
+    "Benefits": "Breathe cleaner air anywhere",
+    "Recommended Style": "Health-focused"
+  },
+  {
+    "Product": "Smart Fitness Tracker",
+    "Category": "Wearable Tech",
+    "Target Audience": "Health-conscious individuals",
+    "Features": "Heart rate monitor, sleep tracking, waterproof",
+    "Benefits": "Track health metrics effortlessly",
+    "Recommended Style": "Sporty"
+  },
+  {
+    "Product": "Multi-Device Bluetooth Keyboard",
+    "Category": "Tech Accessories",
+    "Target Audience": "Professionals, students",
+    "Features": "Connects to up to 3 devices, backlit keys",
+    "Benefits": "Switch between devices seamlessly",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smart LED Strip Lights",
+    "Category": "Home Decor",
+    "Target Audience": "Homeowners, gamers",
+    "Features": "16 million colors, app control",
+    "Benefits": "Create ambiance with customizable lighting",
+    "Recommended Style": "Vibrant"
+  },
+  {
+    "Product": "Compact Travel Umbrella",
+    "Category": "Accessories",
+    "Target Audience": "Urban commuters",
+    "Features": "Wind-resistant, automatic open/close",
+    "Benefits": "Stay dry in style, easy to carry",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Wireless Portable Speaker",
+    "Category": "Audio",
+    "Target Audience": "Outdoor enthusiasts, party-goers",
+    "Features": "Water-resistant, 20-hour battery life",
+    "Benefits": "Enjoy music anywhere, anytime",
+    "Recommended Style": "Rugged"
+  },
+  {
+    "Product": "Smartphone Camera Lens Kit",
+    "Category": "Photography Accessories",
+    "Target Audience": "Content creators, photographers",
+    "Features": "Wide-angle, macro, and fisheye lenses",
+    "Benefits": "Enhance smartphone photography capabilities",
+    "Recommended Style": "Creative"
+  },
+  {
+    "Product": "Portable Solar Charger",
+    "Category": "Gadgets",
+    "Target Audience": "Outdoor enthusiasts, travelers",
+    "Features": "10,000mAh capacity, dual USB output",
+    "Benefits": "Charge devices sustainably on the go",
+    "Recommended Style": "Eco-friendly"
+  },
+  {
+    "Product": "Smart Home Security Camera",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners, renters",
+    "Features": "1080p HD video, night vision, motion detection",
+    "Benefits": "Peace of mind with real-time monitoring",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Ergonomic Laptop Stand",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, students",
+    "Features": "Adjustable height, foldable design",
+    "Benefits": "Improve posture and comfort while working",
+    "Recommended Style": "Functional"
+  },
+  {
+    "Product": "Smartphone Tripod with Ring Light",
+    "Category": "Photography Accessories",
+    "Target Audience": "Content creators, vloggers",
+    "Features": "Adjustable height, built-in ring light, Bluetooth remote",
+    "Benefits": "Perfect lighting for videos and photos",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Wireless Charging Desk Lamp",
+    "Category": "Office Accessories",
+    "Target Audience": "Remote workers, students",
+    "Features": "Adjustable brightness, wireless charging pad",
+    "Benefits": "Illuminate your workspace while charging devices",
+    "Recommended Style": "Sleek"
+  },
+  {
+    "Product": "Ergonomic Office Chair",
+    "Category": "Professional Furniture",
+    "Target Audience": "Full-time remote workers",
+    "Features": "Dynamic lumbar adjustment, 3D mesh seat",
+    "Benefits": "Prevents back musculoskeletal disorders",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Portable Solar Battery Pack",
+    "Category": "Outdoor Tech",
+    "Target Audience": "Long-term hikers",
+    "Features": "24W solar panel, 45W USB-C PD output",
+    "Benefits": "Full recharge with 2 hours of sunlight",
+    "Recommended Style": "Survival"
+  },
+  {
+    "Product": "1000× USB Microscope",
+    "Category": "Education",
+    "Target Audience": "Young scientists",
+    "Features": "4 µm resolution, adjustable LED lighting",
+    "Benefits": "Explore the microscopic world on screen",
+    "Recommended Style": "Educational"
+  },
+  {
+    "Product": "Foldable Bluetooth Keyboard",
+    "Category": "Mobile Accessories",
+    "Target Audience": "Digital nomads",
+    "Features": "Folds 180°, 3-week battery life",
+    "Benefits": "Comfortable typing on the go",
+    "Recommended Style": "Ultra‑Portable"
+  },
+  {
+    "Product": "Keyless Biometric Lock",
+    "Category": "Home Security",
+    "Target Audience": "Airbnb hosts",
+    "Features": "Fingerprint + PIN code, IP65 rating",
+    "Benefits": "Remote access management",
+    "Recommended Style": "Contactless"
+  },
+  {
+    "Product": "Reusable Mouse Pad",
+    "Category": "Eco‑Friendly Office",
+    "Target Audience": "Green businesses",
+    "Features": "Recycled silicone, washable",
+    "Benefits": "10× longer lifespan",
+    "Recommended Style": "Eco‑Conscious"
+  },
+  {
+    "Product": "Tactical Flashlight",
+    "Category": "Security",
+    "Target Audience": "Emergency responders",
+    "Features": "2000 lumens, strobe mode",
+    "Benefits": "Visibility up to 1 km",
+    "Recommended Style": "Emergency"
+  },
+  {
+    "Product": "DIY Laser Engraving Kit",
+    "Category": "Creative Hobbies",
+    "Target Audience": "Advanced makers",
+    "Features": "0.1 mm precision, 20×20 cm area",
+    "Benefits": "Professional-grade home customization",
+    "Recommended Style": "Precision"
+  },
+  {
+    "Product": "Smart Connected Scale",
+    "Category": "Health",
+    "Target Audience": "Fitness fanatics",
+    "Features": "8 sensors, body composition analysis",
+    "Benefits": "Accurate muscle/fat tracking",
+    "Recommended Style": "Data‑Driven"
+  },
+  {
+    "Product": "4K Pro Folding Drone",
+    "Category": "Aerial Photography",
+    "Target Audience": "Content creators",
+    "Features": "Folds in 3s, 3-axis stabilization, 32 min flight time",
+    "Benefits": "Cinematic quality in a travel-friendly size",
+    "Recommended Style": "Cinematic"
+  },
+  {
+    "Product": "Laser Projection Keyboard",
+    "Category": "Futuristic Tech",
+    "Target Audience": "High-tech minimalists",
+    "Features": "Backlit projection, IP68 waterproofing",
+    "Benefits": "Unlimited workspace surface",
+    "Recommended Style": "Sci‑Fi"
+  },
+  {
+    "Product": "Connected Blood Pressure Monitor",
+    "Category": "Digital Health",
+    "Target Audience": "Hypertensive patients",
+    "Features": "ECG + pressure measurement, cloud sync",
+    "Benefits": "Autonomous medical monitoring",
+    "Recommended Style": "Medical"
+  },
+  {
+    "Product": "Autonomous Cooler",
+    "Category": "Camping",
+    "Target Audience": "Roadtrippers",
+    "Features": "Built-in compressor, maintains –25 °C",
+    "Benefits": "10-day preservation without electricity",
+    "Recommended Style": "Self‑Sufficient"
+  },
+  {
+    "Product": "Pocket Microscope",
+    "Category": "Science",
+    "Target Audience": "Teachers",
+    "Features": "400× magnification, smartphone compatible",
+    "Benefits": "A mobile lab in your pocket",
+    "Recommended Style": "Educational"
+  },
+  {
+    "Product": "Natural Light Alarm Clock",
+    "Category": "Well-being",
+    "Target Audience": "Night owls",
+    "Features": "30 min sunrise simulation, 16 million colors",
+    "Benefits": "Synchronizes circadian rhythm",
+    "Recommended Style": "Natural"
+  },
+  {
+    "Product": "Ultra-Light –5 °C Sleeping Bag",
+    "Category": "Hiking",
+    "Target Audience": "Mountaineers",
+    "Features": "850 g, water-resistant down fill",
+    "Benefits": "Maximum warmth with minimal weight",
+    "Recommended Style": "Extreme"
+  },
+  {
+    "Product": "Voice-Modulating Speaker",
+    "Category": "Audio",
+    "Target Audience": "Podcasters",
+    "Features": "Built-in voice correction, noise suppression",
+    "Benefits": "Studio-quality sound without post-production",
+    "Recommended Style": "Pro Audio"
+  },
+  {
+    "Product": "Metal Detector Kit",
+    "Category": "Leisure",
+    "Target Audience": "Treasure hunters",
+    "Features": "2.5 m depth, built-in discrimination",
+    "Benefits": "Filters out false positives",
+    "Recommended Style": "Adventure"
+  },
+  {
+    "Product": "Agricultural Weather Station",
+    "Category": "AgroTech",
+    "Target Audience": "Vineyard farmers",
+    "Features": "Soil/humidity/UV sensors, hyperlocal forecast",
+    "Benefits": "Optimizes harvest yields",
+    "Recommended Style": "Precise"
+  },
+  {
+    "Product": "Pocket 3D Scanner",
+    "Category": "Digitization",
+    "Target Audience": "Architects/designers",
+    "Features": "0.1 mm accuracy, exports OBJ/STL",
+    "Benefits": "Instant digitalization of prototypes",
+    "Recommended Style": "Technical Precision"
+  },
+  {
+    "Product": "Mobile Soldering Station",
+    "Category": "Pro DIY",
+    "Target Audience": "Mobile craftsmen",
+    "Features": "8 h battery, 200‑450 °C adjustable temperature",
+    "Benefits": "Complete workshop in a briefcase",
+    "Recommended Style": "Professional"
+  },
+  {
+    "Product": "Water Quality Monitor",
+    "Category": "Aquarium Care",
+    "Target Audience": "Coral reef keepers",
+    "Features": "Simultaneous pH/NO₃/PO₄/Kh measurement",
+    "Benefits": "Perfect reef balance",
+    "Recommended Style": "Expert"
+  },
+  {
+    "Product": "RGB Gaming Backlit Keyboard",
+    "Category": "Esports",
+    "Target Audience": "Nighttime gamers",
+    "Features": "Optical switches, 16.8M RGB colors",
+    "Benefits": "0.2 ms responsiveness without ghosting",
+    "Recommended Style": "Competitive"
+  },
+  {
+    "Product": "LED Makeup Case Pro",
+    "Category": "Beauty",
+    "Target Audience": "Make-up artists",
+    "Features": "5 light temperatures, 10× mirror",
+    "Benefits": "Professional finish on the go",
+    "Recommended Style": "Studio"
+  },
+  {
+    "Product": "4K Underwater Drone",
+    "Category": "Exploration",
+    "Target Audience": "Scientific divers",
+    "Features": "100 m depth, robotic arm",
+    "Benefits": "Underwater inspection without risk",
+    "Recommended Style": "Exploration"
+  },
+  {
+    "Product": "Industrial Infrared Thermometer",
+    "Category": "Tools",
+    "Target Audience": "Mechanics",
+    "Features": "–50 °C to +800 °C, laser targeting",
+    "Benefits": "Detects engine overheating",
+    "Recommended Style": "Industrial"
+  },
+  {
+    "Product": "Metal Separator",
+    "Category": "Recycling",
+    "Target Audience": "Scrap dealers",
+    "Features": "Neodymium magnet, 500 kg pull",
+    "Benefits": "10× faster sorting",
+    "Recommended Style": "Rugged"
+  },
+  {
+    "Product": "LED Stereo Microscope",
+    "Category": "Watchmaking",
+    "Target Audience": "Watch repairers",
+    "Features": "20× magnification, ring light",
+    "Benefits": "Surgical-level precision",
+    "Recommended Style": "Miniature"
+  },
+  {
+    "Product": "Multichannel Recorder",
+    "Category": "Pro Audio",
+    "Target Audience": "Sound engineers",
+    "Features": "8 XLR inputs, 192 kHz/24‑bit",
+    "Benefits": "Studio-quality field recording",
+    "Recommended Style": "Audiophile"
+  },
+  {
+    "Product": "Saltwater Rechargeable Battery",
+    "Category": "Green Energy",
+    "Target Audience": "Eco‑tech enthusiasts",
+    "Features": "1000 cycles, zero heavy metals",
+    "Benefits": "Recyclable indefinitely without pollution",
+    "Recommended Style": "Revolutionary"
+  },
+  {
+    "Product": "Photovoltaic Tent Fabric",
+    "Category": "Camping",
+    "Target Audience": "Self‑sufficient hikers",
+    "Features": "25 W/m², machine washable",
+    "Benefits": "Energy production on the go",
+    "Recommended Style": "Self‑Sufficient"
+  },
+  {
+    "Product": "Slow‑Release Organic Fertilizer",
+    "Category": "Gardening",
+    "Target Audience": "Urban farmers",
+    "Features": "Microbial formula, lasts 3 months",
+    "Benefits": "40% yield increase without chemicals",
+    "Recommended Style": "Natural"
+  },
+  {
+    "Product": "Air‑Purifying Paint",
+    "Category": "Home Decor",
+    "Target Audience": "Allergy‑prone households",
+    "Features": "Neutralizes 85% VOCs, lasts 5 years",
+    "Benefits": "Passive indoor air purification",
+    "Recommended Style": "Health"
+  },
+  {
+    "Product": "Smart Hydroponic System",
+    "Category": "Urban Gardening",
+    "Target Audience": "City dwellers",
+    "Features": "Automated nutrient dosing, app control",
+    "Benefits": "Grow fresh produce indoors year-round",
+    "Recommended Style": "Techy"
+  },
+  {
+    "Product": "Portable Water Purifier",
+    "Category": "Outdoor Gear",
+    "Target Audience": "Hikers, campers",
+    "Features": "Filters 99.99% of bacteria, UV-C technology",
+    "Benefits": "Safe drinking water anywhere",
+    "Recommended Style": "Survival"
+  },
+  {
+    "Product": "Smart Pet Feeder",
+    "Category": "Pet Care",
+    "Target Audience": "Busy pet owners",
+    "Features": "App control, portion management, camera",
+    "Benefits": "Feed pets remotely and monitor their eating habits",
+    "Recommended Style": "Convenient"
+  },
+  {
+    "Product": "Wireless Smart Lock",
+    "Category": "Home Security",
+    "Target Audience": "Homeowners, renters",
+    "Features": "Keyless entry, mobile app control, auto-lock feature",
+    "Benefits": "Enhanced security and convenience",
+    "Recommended Style": "Modern"
+  },
+  {
+    "Product": "Smart Thermostat",
+    "Category": "Home Automation",
+    "Target Audience": "Tech-savvy homeowners",
+    "Features": "Wi-Fi enabled, energy-saving features, mobile app control",
+    "Benefits": "Control your home's temperature remotely",
+    "Recommended Style": "Innovative"
+  },
+  {
+    "Product": "Cryo-Stick Decongesting Mask",
+    "Category": "Eye Contour Care",
+    "Target Audience": "Under-eye puffiness",
+    "Features": "Metal roller at −4 °C, microencapsulated caffeine",
+    "Benefits": "Instant de-puffing",
+    "Recommended Style": "Instant Glow"
+  },
+  {
+    "Product": "Nutri‑Plumping Lipstick",
+    "Category": "Makeup",
+    "Target Audience": "Sensitive lips",
+    "Features": "2% hyaluronic acid, adaptive shades",
+    "Benefits": "Plumping effect without tingling",
+    "Recommended Style": "Clean Beauty"
+  },
+  {
+    "Product": "Anti‑Pollution Hair Mist",
+    "Category": "Hair Care",
+    "Target Audience": "Urban dwellers",
+    "Features": "Protective film, plant-based ceramides",
+    "Benefits": "Shield against fine particles",
+    "Recommended Style": "Urban Care"
+  },
+  {
+    "Product": "Magnetic Make‑Up Palette",
+    "Category": "Makeup",
+    "Target Audience": "Nomads",
+    "Features": "Interchangeable magnetic pans, LED mirror",
+    "Benefits": "Infinite customization",
+    "Recommended Style": "Modular"
+  },
+  {
+    "Product": "Lunar Enzymatic Scrub",
+    "Category": "Exfoliation",
+    "Target Audience": "Reactive skin",
+    "Features": "Papaya enzymes, lunar-phase inclusive formulation",
+    "Benefits": "Microbiome-friendly exfoliation",
+    "Recommended Style": "Slow Cosmetics"
+  },
+  {
+    "Product": "Perfumed Dry Oil",
+    "Category": "Body Care",
+    "Target Audience": "Minimalists",
+    "Features": "Dry-oil texture, aromatherapy fragrance",
+    "Benefits": "72 h hydration without greasiness",
+    "Recommended Style": "Sensorial"
+  },
+  {
+    "Product": "Heavy Metal Detox Patches",
+    "Category": "Targeted Care",
+    "Target Audience": "Pollution‑exposed skin",
+    "Features": "Binchotan charcoal, transdermal adhesive tech",
+    "Benefits": "Extraction of pollutants",
+    "Recommended Style": "Detoxification"
+  },
+  {
+    "Product": "2‑in‑1 Conditioning Mascara",
+    "Category": "Eyelash Care",
+    "Target Audience": "Fragile lashes",
+    "Features": "Growth peptides, heated brush",
+    "Benefits": "Volume plus repair",
+    "Recommended Style": "Hybrid Care"
+  },
+  {
+    "Product": "Hair Texture Reset Spray",
+    "Category": "Hairstyling",
+    "Target Audience": "Chemically-treated hair",
+    "Features": "Smart polymers, pH 4.5",
+    "Benefits": "Resets hair fiber structure",
+    "Recommended Style": "Hair Tech"
+  },
+  {
+    "Product": "Skin‑Tint with Smart Foundation",
+    "Category": "Smart Makeup",
+    "Target Audience": "Imperfection-prone skin",
+    "Features": "Adaptive light sensor + micro-dosed salicylic acid",
+    "Benefits": "Variable coverage with active skincare",
+    "Recommended Style": "Techno-Natural"
+  },
+  {
+    "Product": "At‑Home LED Phototherapy Serum",
+    "Category": "Facial Care",
+    "Target Audience": "Preventive anti-aging",
+    "Features": "7 adjustable wavelengths (red/blue/yellow)",
+    "Benefits": "Pro spa routine at home",
+    "Recommended Style": "Clinic-Luxury"
+  },
+  {
+    "Product": "Eco‑Refill Lip Balm Stick",
+    "Category": "Lip Care",
+    "Target Audience": "Minimalists",
+    "Features": "Click mechanism, fully edible formula",
+    "Benefits": "Zero waste + compostable refill",
+    "Recommended Style": "Zero Waste Chic"
+  },
+  {
+    "Product": "Magnetic Eyeshadow",
+    "Category": "Makeup",
+    "Target Audience": "Creative users",
+    "Features": "Ferrous pigment particles, magnetic applicator",
+    "Benefits": "Ultra-precise metallic effects",
+    "Recommended Style": "Artistic Tech"
+  },
+  {
+    "Product": "Microbiome Hydrating Mist",
+    "Category": "Facial Care",
+    "Target Audience": "Imbalanced skin",
+    "Features": "Encapsulated pre + probiotics, ideal pH 5.5",
+    "Benefits": "Strengthens the skin barrier",
+    "Recommended Style": "Skin‑Gut Axis"
+  },
+  {
+    "Product": "Mini Nail Printer",
+    "Category": "Nail Care",
+    "Target Audience": "Nail artists",
+    "Features": "Edible ink printing, 200+ designs",
+    "Benefits": "Salon-quality custom home manicure",
+    "Recommended Style": "Digital DIY"
+  },
+  {
+    "Product": "Instant Cryo‑Carbon Mask",
+    "Category": "Express Facial",
+    "Target Audience": "Pre-evening prep",
+    "Features": "−3 °C flash effect + detoxifying nanoparticles",
+    "Benefits": "De-puffing and glow in 5 minutes",
+    "Recommended Style": "Flash Glow"
+  },
+  {
+    "Product": "Mood‑Reacting Perfume",
+    "Category": "Fragrance",
+    "Target Audience": "Emotionally attuned individuals",
+    "Features": "Evolving notes with body temperature",
+    "Benefits": "Adapts to your emotions",
+    "Recommended Style": "Neuro-Cosmetic"
+  },
+  {
+    "Product": "Self‑Stabilizing Eyeliner",
+    "Category": "Makeup",
+    "Target Audience": "Beginners",
+    "Features": "Built-in gyroscopic tip",
+    "Benefits": "Perfect line even with shaky hands",
+    "Recommended Style": "Foolproof"
+  },
+  {
+    "Product": "Self‑Cleaning Ionic Hair Brush",
+    "Category": "Hair Tool",
+    "Target Audience": "Fine hair",
+    "Features": "Boar bristles + negative ions, UV sterilization",
+    "Benefits": "Tangle-free and hygienic",
+    "Recommended Style": "High‑Tech Haircare"
+  },
+  {
+    "Product": "Smart Enzymatic Face Cleanser",
+    "Category": "Cleanser",
+    "Target Audience": "Sensitive skin",
+    "Features": "Papaya enzymes + encapsulated probiotics, self-regulating pH 4.5‑5.5",
+    "Benefits": "Cleans without disrupting the microbiome",
+    "Recommended Style": "Gentle Science"
+  },
+  {
+    "Product": "3D‑RNA Repair Serum",
+    "Category": "Repair Care",
+    "Target Audience": "Damaged skin",
+    "Features": "Plant mRNA + growth factors, liposomal technology",
+    "Benefits": "Stimulates cellular regeneration",
+    "Recommended Style": "Biohacking"
+  },
+  {
+    "Product": "Cryo‑Detox Hydrogel Patch",
+    "Category": "Targeted Care",
+    "Target Audience": "Under‑eye puffiness",
+    "Features": "Cucumber extract hydrogel, −4 °C for 20 min",
+    "Benefits": "Instant de‑congestion",
+    "Recommended Style": "Flash Rescue"
+  },
+  {
+    "Product": "Anti‑Pollution Barrier Cream",
+    "Category": "Protective Care",
+    "Target Audience": "Urban dwellers",
+    "Features": "Biopolymer adhesive film, heavy‑metal chelator",
+    "Benefits": "Shield against PM2.5 particles",
+    "Recommended Style": "Urban Shield"
+  },
+  {
+    "Product": "Biome‑Friendly Dry Oil",
+    "Category": "Hydration",
+    "Target Audience": "Dehydrated skin",
+    "Features": "5 plant ceramides, dry-touch texture",
+    "Benefits": "Restores lipid barrier",
+    "Recommended Style": "Skin Therapist"
+  },
+  {
+    "Product": "Auto‑Heating LED Mask",
+    "Category": "Intensive Care",
+    "Target Audience": "Dull skin",
+    "Features": "Thermoreactive fibers + red light",
+    "Benefits": "Collagen boost in 10 minutes",
+    "Recommended Style": "Spa Tech"
+  },
+  {
+    "Product": "Lactobionic Exfoliant",
+    "Category": "Chemical Scrub",
+    "Target Audience": "Reactive skin",
+    "Features": "PHA + lactobionic acid, jojoba microspheres",
+    "Benefits": "Gentle exfoliation without irritation",
+    "Recommended Style": "Gentle Renewal"
+  },
+  {
+    "Product": "Electrolyte Hydrating Mist",
+    "Category": "Freshness Care",
+    "Target Audience": "Dehydrated skin",
+    "Features": "Marine minerals + electrolytes",
+    "Benefits": "Instant rebalancing",
+    "Recommended Style": "Skin Drink"
+  },
+  {
+    "Product": "Non‑Irritant Brightening Serum",
+    "Category": "Spot Care",
+    "Target Audience": "Hyperpigmentation",
+    "Features": "Tranexamic acid + niacinamide, slow‑release",
+    "Benefits": "Results without inflammation",
+    "Recommended Style": "Clarity"
+  },
+  {
+    "Product": "Space Cica‑Repair Balm",
+    "Category": "Extreme Care",
+    "Target Audience": "Damaged skin",
+    "Features": "Space‑extremophile bacteria, phase‑change texture",
+    "Benefits": "Accelerated healing",
+    "Recommended Style": "Extreme Recovery"
+  },
+  {
+    "Product": "Insect‑Protein Pasta",
+    "Category": "Sports Nutrition",
+    "Target Audience": "Eco‑athletes",
+    "Features": "25 g protein/serving, cricket flour",
+    "Benefits": "Sustainable nutritional boost",
+    "Recommended Style": "Future Food"
+  },
+  {
+    "Product": "Urban Rooftop Honey",
+    "Category": "Sustainable Products",
+    "Target Audience": "Locavores",
+    "Features": "Harvested from Paris rooftops, cold filtration",
+    "Benefits": "Reduced allergens, minimal carbon footprint",
+    "Recommended Style": "Hyperlocal"
+  },
+  {
+    "Product": "Plant‑Based Artisan Cheese",
+    "Category": "Vegan",
+    "Target Audience": "Flexitarians",
+    "Features": "Cashew-based, aged 6 months",
+    "Benefits": "Complex, cheese-like texture",
+    "Recommended Style": "Gourmet"
+  },
+  {
+    "Product": "Night Adaptogen Drink",
+    "Category": "Functional Food",
+    "Target Audience": "Stressed city dwellers",
+    "Features": "Ashwagandha + L‑Theanine, caffeine‑free",
+    "Benefits": "Helps you fall asleep",
+    "Recommended Style": "Zen"
+  },
+  {
+    "Product": "Spirulina Chocolate",
+    "Category": "Superfoods",
+    "Target Audience": "Health-conscious",
+    "Features": "70% cacao, algae infusion",
+    "Benefits": "Nutritional boost without fishy taste",
+    "Recommended Style": "Healthy Indulgence"
+  },
+  {
+    "Product": "Molecular Vegan Caviar",
+    "Category": "Gastronomy",
+    "Target Audience": "Foodies",
+    "Features": "Beet/seaweed spherification",
+    "Benefits": "Fish-free sensory experience",
+    "Recommended Style": "Sci-Fi Cuisine"
+  },
+  {
+    "Product": "Green Banana Flour",
+    "Category": "Gluten-Free",
+    "Target Audience": "Intolerant individuals",
+    "Features": "Low glycemic index, high resistant starch",
+    "Benefits": "Digestive-friendly alternative",
+    "Recommended Style": "Gut-Friendly"
+  },
+  {
+    "Product": "Cricket Protein Snack Bar",
+    "Category": "Nutrition",
+    "Target Audience": "Gym rats",
+    "Features": "15 g protein bar, cricket powder",
+    "Benefits": "Complete amino acid source",
+    "Recommended Style": "Performance"
+  },
+  {
+    "Product": "CBD‑Infused Olive Oil",
+    "Category": "Wellness Food",
+    "Target Audience": "Wellness seekers",
+    "Features": "10 mg CBD per serving, first cold-pressed",
+    "Benefits": "Relaxation without THC",
+    "Recommended Style": "Calm Cooking"
+  },
+  {
+    "Product": "Fermented Beetroot Juice",
+    "Category": "Functional Beverage",
+    "Target Audience": "Athletes",
+    "Features": "High in nitrates, probiotic-rich",
+    "Benefits": "Boosts endurance and gut health",
+    "Recommended Style": "Performance"
+  },
+  {
+    "Product": "Plant-Based Protein Powder",
+    "Category": "Sports Nutrition",
+    "Target Audience": "Vegans, vegetarians",
+    "Features": "Pea and brown rice protein blend, no added sugars",
+    "Benefits": "Complete protein source for muscle recovery",
+    "Recommended Style": "Healthy Living"
+  },
+  {
+    "Product": "Organic Matcha Latte Mix",
+    "Category": "Beverage Mixes",
+    "Target Audience": "Tea lovers, health enthusiasts",
+    "Features": "Ceremonial grade matcha, coconut milk powder",
+    "Benefits": "Rich in antioxidants and energy-boosting properties",
+    "Recommended Style": "Zen"
+  },
+  {
+    "Product": "Gluten-Free Vegan Pancake Mix",
+    "Category": "Breakfast Foods",
+    "Target Audience": "Health-conscious individuals, families",
+    "Features": "Made with almond flour and flaxseed, no preservatives",
+    "Benefits": "Quick and healthy breakfast option",
+    "Recommended Style": "Family-Friendly"
+  },
+  {
+    "Product": "Keto-Friendly Snack Box",
+    "Category": "Snacks",
+    "Target Audience": "Keto dieters, low-carb enthusiasts",
+    "Features": "Assorted snacks with low net carbs, high in healthy fats",
+    "Benefits": "Convenient snacking without breaking ketosis",
+    "Recommended Style": "Diet-Conscious"
+  },
+  {
+    "Product": "Organic Cold Brew Coffee Concentrate",
+    "Category": "Beverages",
+    "Target Audience": "Coffee lovers, busy professionals",
+    "Features": "Smooth, low-acid coffee concentrate, ready to mix",
+    "Benefits": "Quick caffeine fix without bitterness",
+    "Recommended Style": "Convenient"
+  },
+  {
+    "Product": "Plant-Based Jerky",
+    "Category": "Snacks",
+    "Target Audience": "Vegans, vegetarians, health-conscious snackers",
+    "Features": "Made from soy or mushrooms, high in protein",
+    "Benefits": "Savory snack without animal products",
+    "Recommended Style": "Healthy Snacking"
+  },
+  {
+    "Product": "Organic Superfood Smoothie Mix",
+    "Category": "Health Supplements",
+    "Target Audience": "Health enthusiasts, busy individuals",
+    "Features": "Blend of greens, fruits, and seeds, no added sugars",
+    "Benefits": "Nutrient-dense smoothie in seconds",
+    "Recommended Style": "Quick Nutrition"
+  },
+  {
+    "Product": "Gluten-Free Vegan Pizza Crust Mix",
+    "Category": "Meal Kits",
+    "Target Audience": "Families, gluten-free dieters",
+    "Features": "Easy-to-make mix with almond flour and herbs",
+    "Benefits": "Homemade pizza without gluten or animal products",
+    "Recommended Style": "Family-Friendly"
+  },
+  {
+    "Product": "Organic Herbal Tea Sampler Set",
+    "Category": "Beverages",
+    "Target Audience": "Tea lovers, wellness seekers",
+    "Features": "Assorted herbal teas with calming properties",
+    "Benefits": "Relaxing and soothing beverage options",
+    "Recommended Style": "Relaxation"
+  },
+  {
+    "Product": "Gluten-Free Vegan Granola",
+    "Category": "Breakfast Foods",
+    "Target Audience": "Health-conscious individuals, families",
+    "Features": "Made with oats, nuts, and seeds, no added sugars",
+    "Benefits": "Nutritious breakfast or snack option",
+    "Recommended Style": "Healthy Living"
+  },
+  {
+    "Product": "Organic Chia Seed Pudding Mix",
+    "Category": "Desserts",
+    "Target Audience": "Health enthusiasts, dessert lovers",
+    "Features": "Chia seeds, coconut milk powder, no added sugars",
+    "Benefits": "Healthy and satisfying dessert option",
+    "Recommended Style": "Guilt-Free Indulgence"
+  },
+  {
+    "Product": "Plant-Based Protein Smoothie Mix",
+    "Category": "Health Supplements",
+    "Target Audience": "Fitness enthusiasts, vegans",
+    "Features": "Pea protein, spinach, and banana blend, no added sugars",
+    "Benefits": "Quick and nutritious post-workout drink",
+    "Recommended Style": "Active Lifestyle"
+  },
+  {
+    "Product": "Vegan Protein Bars",
+    "Category": "Snacks",
+    "Target Audience": "Fitness enthusiasts, vegans",
+    "Features": "High protein, low sugar, plant-based ingredients",
+    "Benefits": "Healthy snack for muscle recovery",
+    "Recommended Style": "Active Lifestyle"
+  },
+  {
+    "Product": "Organic Almond Butter",
+    "Category": "Spreads",
+    "Target Audience": "Health-conscious individuals, families",
+    "Features": "Made from roasted almonds, no added sugars or oils",
+    "Benefits": "Nutritious spread for toast or smoothies",
+    "Recommended Style": "Healthy Living"
+  },
+  {
+    "Product": "Gluten-Free Vegan Brownie Mix",
+    "Category": "Baking Mixes",
+    "Target Audience": "Bakers, dessert lovers",
+    "Features": "Made with almond flour and cocoa, no preservatives",
+    "Benefits": "Delicious brownies without gluten or animal products",
+    "Recommended Style": "Gourmet Baking"
+  },
+  {
+    "Product": "Organic Coconut Water",
+    "Category": "Beverages",
+    "Target Audience": "Health enthusiasts, athletes",
+    "Features": "Natural electrolytes, no added sugars",
+    "Benefits": "Hydrating and refreshing drink",
+    "Recommended Style": "Natural Hydration"
+  },
+  {
+    "Product": "Vegan Cheese Spread",
+    "Category": "Spreads",
+    "Target Audience": "Vegans, lactose-intolerant individuals",
+    "Features": "Cashew-based, no artificial flavors",
+    "Benefits": "Creamy cheese alternative for crackers or sandwiches",
+    "Recommended Style": "Gourmet Vegan"
+  },
+  {
+    "Product": "Organic Quinoa Salad Mix",
+    "Category": "Meal Kits",
+    "Target Audience": "Health-conscious individuals, families",
+    "Features": "Quinoa, dried vegetables, and herbs, easy to prepare",
+    "Benefits": "Quick and nutritious meal option",
+    "Recommended Style": "Healthy Convenience"
+  },
+  {
+    "Product": "Gluten-Free Vegan Chocolate Chip Cookies",
+    "Category": "Snacks",
+    "Target Audience": "Families, dessert lovers",
+    "Features": "Made with almond flour and dark chocolate chips, no preservatives",
+    "Benefits": "Delicious cookies without gluten or animal products",
+    "Recommended Style": "Gourmet Treats"
+  },
+  {
+    "Product": "Probiotic Kefir Ice Cream",
+    "Category": "Healthy Dessert",
+    "Target Audience": "Sensitive digestion",
+    "Features": "5 live strains, lactose-free",
+    "Benefits": "Frozen delight that nourishes the microbiome",
+    "Recommended Style": "Guilt-Free"
+  },
+  {
+    "Product": "Nitro Cold Brew Coffee",
+    "Category": "Energy Drink",
+    "Target Audience": "Coffee lovers",
+    "Features": "24-hour brew, nitrogen infused",
+    "Benefits": "Smooth texture without acidity",
+    "Recommended Style": "Craft"
+  },
+  {
+    "Product": "Fermented Vegetable Chips",
+    "Category": "Healthy Snack",
+    "Target Audience": "Mindful snacking",
+    "Features": "48h lacto-fermentation, low-temp dehydration",
+    "Benefits": "Natural probiotics + crunch",
+    "Recommended Style": "Gut-Healthy"
+  },
+  {
+    "Product": "Avocado Chocolate Mousse",
+    "Category": "Dessert",
+    "Target Audience": "Keto/Paleo",
+    "Features": "No added sugar, avocado cream",
+    "Benefits": "Airy texture rich in good fats",
+    "Recommended Style": "Decadent Light"
+  },
+  {
+    "Product": "Plant-Based Bone Broth",
+    "Category": "Cooking Base",
+    "Target Audience": "Vegans",
+    "Features": "Shiitake mushrooms + kombu seaweed",
+    "Benefits": "Deep umami without animal products",
+    "Recommended Style": "Plant-Based Umami"
+  },
+  {
+    "Product": "Raw Honey Infused with Turmeric",
+    "Category": "Superfood",
+    "Target Audience": "Immunity",
+    "Features": "Unpasteurized, activated curcuminoids",
+    "Benefits": "Natural anti-inflammatory",
+    "Recommended Style": "Golden Wellness"
+  },
+  {
+    "Product": "Protein Nut Spread",
+    "Category": "Breakfast",
+    "Target Audience": "Athletes",
+    "Features": "Pea isolate, roasted hazelnuts",
+    "Benefits": "20g of protein per serving",
+    "Recommended Style": "Performance"
+  },
+  {
+    "Product": "Sparkling Fruit Kombucha",
+    "Category": "Fermented Drink",
+    "Target Audience": "Digestion",
+    "Features": "Double fermentation, organic fruit",
+    "Benefits": "Live enzymes + natural fizz",
+    "Recommended Style": "Sparkling Gut"
+  },
+  {
+    "Product": "Seaweed and Seed Crackers",
+    "Category": "Appetizer",
+    "Target Audience": "Ketogenic",
+    "Features": "Spirulina + chia seeds",
+    "Benefits": "High in omega-3, low GI",
+    "Recommended Style": "Ocean Crunch"
+  },
+  {
+    "Product": "Spiced Golden Milk",
+    "Category": "Hot Drink",
+    "Target Audience": "Well-being",
+    "Features": "Almond milk + turmeric + black pepper",
+    "Benefits": "Anti-inflammatory properties",
+    "Recommended Style": "Ayurvedic"
+  },
+  {
+    "Product": "“Seed to Bar” Energy Bar",
+    "Category": "Nutrition",
+    "Target Audience": "Hikers",
+    "Features": "Single-origin chocolate, sprouted seeds",
+    "Benefits": "Long-lasting energy",
+    "Recommended Style": "Trail Mix 2.0"
+  },
+  {
+    "Product": "Natural Sunrise Simulator Alarm",
+    "Category": "Well-being",
+    "Target Audience": "Light sleepers",
+    "Features": "Gradual light 3000–6500K, nature sounds",
+    "Benefits": "Gentle wake-up aligned with circadian rhythm",
+    "Recommended Style": "Natural"
+  },
+  {
+    "Product": "Fingerprint Lock",
+    "Category": "Security",
+    "Target Audience": "Travelers/Nomads",
+    "Features": "Stores 10 prints, water-resistant",
+    "Benefits": "No more keys or codes needed",
+    "Recommended Style": "High-Tech"
+  },
+  {
+    "Product": "Hydroponic Starter Kit",
+    "Category": "Gardening",
+    "Target Audience": "Urban dwellers without gardens",
+    "Features": "Autonomous system with silent pump",
+    "Benefits": "Grow fresh herbs indoors",
+    "Recommended Style": "Eco-Friendly"
+  },
+  {
+    "Product": "Edible 3D Pen",
+    "Category": "Creative Cooking",
+    "Target Audience": "Parents/Children",
+    "Features": "Edible paste, 5 different nozzles",
+    "Benefits": "Create fun culinary decorations",
+    "Recommended Style": "Playful"
+  },
+  {
+    "Product": "Concentrated Multi-Surface Cleaner",
+    "Category": "Cleaning",
+    "Target Audience": "Eco-conscious users",
+    "Features": "1L = 20L of product, bulk refill",
+    "Benefits": "Reduces plastic waste",
+    "Recommended Style": "Minimalist"
+  },
+  {
+    "Product": "Crank Flashlight",
+    "Category": "Survival",
+    "Target Audience": "Hikers/Campers",
+    "Features": "1 min crank = 30 min light",
+    "Benefits": "No batteries needed",
+    "Recommended Style": "Self-Sufficient"
+  },
+  {
+    "Product": "Ergonomic Memory Foam Pillow",
+    "Category": "Bedding",
+    "Target Audience": "Sensitive sleepers",
+    "Features": "Variable-density foam, bamboo cover",
+    "Benefits": "Personalized cervical support",
+    "Recommended Style": "Comfort"
+  },
+  {
+    "Product": "Bluetooth Key Finder",
+    "Category": "Accessory",
+    "Target Audience": "Forgetful people",
+    "Features": "50m range, audible alarm",
+    "Benefits": "Find your keys in seconds",
+    "Recommended Style": "Practical"
+  },
+  {
+    "Product": "Educational Wildlife Card Game",
+    "Category": "Leisure",
+    "Target Audience": "Families",
+    "Features": "52 illustrated species, multiple rule sets",
+    "Benefits": "Learn while having fun",
+    "Recommended Style": "Educational"
+  },
+  {
+    "Product": "Collapsible Insulated Mug",
+    "Category": "Storage",
+    "Target Audience": "Nomads",
+    "Features": "Food-grade silicone, folds to 2cm thick",
+    "Benefits": "Optimal space saving",
+    "Recommended Style": "Compact"
+  },
+  {
+    "Product": "Mini Star Projector",
+    "Category": "Decoration",
+    "Target Audience": "Kids/Nostalgic adults",
+    "Features": "8 galactic patterns, 60-min timer",
+    "Benefits": "Creates a soothing atmosphere",
+    "Recommended Style": "Dreamy"
+  },
+  {
+    "Product": "Storm Survival Lighter",
+    "Category": "Outdoor",
+    "Target Audience": "Adventurers",
+    "Features": "Electric arc ignition, waterproof",
+    "Benefits": "Works in strong winds",
+    "Recommended Style": "Extreme"
+  },
+  {
+    "Product": "Smart Kitchen Scale",
+    "Category": "Utensil",
+    "Target Audience": "Precise cooks",
+    "Features": "Bluetooth connection, food memory",
+    "Benefits": "Automatic calorie calculation",
+    "Recommended Style": "High-Tech"
+  },
+  {
+    "Product": "Magnetic Tea Infuser Ball",
+    "Category": "Kitchen Accessory",
+    "Target Audience": "Tea enthusiasts",
+    "Features": "Stainless steel, easy open",
+    "Benefits": "Residue-free infusion",
+    "Recommended Style": "Elegant"
+  },
+  {
+    "Product": "Eco-Friendly Cleaning Kit",
+    "Category": "Cleaning",
+    "Target Audience": "Zero-waste homes",
+    "Features": "5 concentrated products, refillable bottles",
+    "Benefits": "100% biodegradable formulas",
+    "Recommended Style": "Eco-Responsible"
+  },
+  {
+    "Product": "Gel Sleep Mask",
+    "Category": "Well-being",
+    "Target Audience": "Light sleepers",
+    "Features": "Cooling gel, adjustable strap",
+    "Benefits": "Improves sleep quality",
+    "Recommended Style": "Relax"
+  },
+  {
+    "Product": "RFID Blocker Card Holder",
+    "Category": "Accessory",
+    "Target Audience": "Digital security",
+    "Features": "Genuine leather, 13.56MHz blocking",
+    "Benefits": "Protection against data theft",
+    "Recommended Style": "Secure"
+  },
+  {
+    "Product": "Compact Board Game Set",
+    "Category": "Leisure",
+    "Target Audience": "Travelers",
+    "Features": "15 games in 1, pocket size",
+    "Benefits": "Mobile entertainment",
+    "Recommended Style": "Portable"
+  },
+  {
+    "Product": "Laser Pointer Pen for Presentations",
+    "Category": "Office",
+    "Target Audience": "Professionals",
+    "Features": "Pointer + pen, 8h autonomy",
+    "Benefits": "2-in-1 meeting tool",
+    "Recommended Style": "Professional"
+  }
+]
